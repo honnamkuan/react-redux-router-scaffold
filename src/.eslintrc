@@ -1,0 +1,33 @@
+{
+    "extends": [
+        "react-app",
+        "plugin:jsx-a11y/strict"
+    ],
+    "plugins": [
+        "jsx-a11y"
+    ],
+    "rules": {
+        "key-spacing": "off",
+        "jsx-quotes": [
+            2,
+            "prefer-single"
+        ],
+        "max-len": [
+            2,
+            120,
+            2
+        ],
+        "object-curly-spacing": [
+            2,
+            "always"
+        ],
+        "comma-dangle": "off",
+        "indent": [
+            2,
+            2,
+            {
+                "SwitchCase": 1
+            }
+        ]
+    }
+}
