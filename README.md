@@ -1,3 +1,13 @@
+## Quick start
+
+1. Clone this repo using `git clone https://github.com/honnamkuan/react-redux-router-scaffold.git`
+2. Move and change directory to the appropriate directory: `my-app`.
+3. Rename the app name in `package.json` and `package-lock.json` accordingly.
+3. Run `npm install` in order to install dependencies. <br/>
+Now you're ready to rumble!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
